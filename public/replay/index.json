@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2023-06-07-northeast",
+    "title": "Canadian smoke over the Northeast",
+    "subtitle": "June 7, 2023",
+    "description": "Smoke from Quebec wildfires settled over New York City, Philadelphia and Washington, D.C., producing some of the worst air quality ever recorded in the Northeast.",
+    "file": "2023-06-07-northeast.json"
+  },
+  {
+    "id": "2023-06-28-midwest",
+    "title": "Canadian smoke over the Upper Midwest",
+    "subtitle": "June 28, 2023",
+    "description": "A second wave of Canadian smoke pushed into Minnesota, Wisconsin, Illinois and Michigan; Chicago briefly reported the worst air quality of any major world city.",
+    "file": "2023-06-28-midwest.json"
+  },
+  {
+    "id": "2020-09-12-west-coast",
+    "title": "West Coast Labor Day fires",
+    "subtitle": "September 12, 2020",
+    "description": "Wind-driven fires in Oregon, California and Washington blanketed the West Coast in dense smoke; Portland, Seattle and San Francisco recorded hazardous PM2.5.",
+    "file": "2020-09-12-west-coast.json"
+  }
+]

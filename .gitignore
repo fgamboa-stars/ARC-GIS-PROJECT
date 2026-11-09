@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.env
+.DS_Store
+.vite
+scripts/.cache
+__pycache__
